@@ -58,7 +58,7 @@ CS50P [Introduction to programming with Python](https://cs50.harvard.edu/python/
 *
 
 ### [Final Project](https://cs50.harvard.edu/python/2022/project/)
-**Project:** *A program to test the user on Mathematics, randomly generating ten equations (addition, subtraction, multiplication and divison) for the user to solve and then output the total score out of ten.*
+**Project Description:** *A program to test the user on Mathematics, randomly generating ten equations (addition, subtraction, multiplication and divison) for the user to solve and then output the total score out of ten.*
 * First, it prompt's the user for an input of level 1, 2, or 3.
 * Then re-prompt the user with an equation beased on the user's level of choice to solve, when the user answer answer correctly then it proceeds to re-prompt again with another equation, or if the user's answer is wrong it print's the correct and continue to re-prompt the user with another equation till it reaches a total number ten equations.
 * And finally, output user's the total score out of ten.

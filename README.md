@@ -1,6 +1,6 @@
 # CS50P 
 
-CS50P Introduction to programming with Python repository of nine problem sets and one final project I did during course to earn my cerificate.
+CS50P [Introduction to programming with Python](https://cs50.harvard.edu/python/2022/) repository of nine problem sets and one final project I did during course to earn my cerificate.
 
 ### WEEK O: [Functions, Variables](https://cs50.harvard.edu/python/2022/psets/0/)
 * Indoor Voice 
